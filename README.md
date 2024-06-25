@@ -1,2 +1,2 @@
 # backgrounds
-Backrounds for ALT Regulat Gnome
+Backrounds for ALT Regular
