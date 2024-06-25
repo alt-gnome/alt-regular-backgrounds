@@ -1,0 +1,26 @@
+<Project xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:gnome="http://api.gnome.org/doap-extensions#"
+         xmlns="http://usefulinc.com/ns/doap#">
+
+  <name xml:lang="en">alt-regular-backgrounds</name>
+  <shortdesc xml:lang="en">Background images for the ALT Regular</shortdesc>
+  <homepage rdf:resource="https://github.com/Rirusha/Cassette" />
+  <bug-database rdf:resource="https://github.com/alt-gnome-team/alt-regular-backgrounds/issues" />
+  <description>Background images for the ALT Regular.</description>
+
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Vladimir Vaskov</foaf:name>
+      <foaf:mbox rdf:resource="mailto:rirusha@altlinux.org" />
+       <foaf:account>
+        <foaf:OnlineAccount>
+          <foaf:accountServiceHomepage rdf:resource="https://github.com"/>
+          <foaf:accountName>Rirusha</foaf:accountName>
+        </foaf:OnlineAccount>
+      </foaf:account>
+    </foaf:Person>
+  </maintainer>
+
+</Project>

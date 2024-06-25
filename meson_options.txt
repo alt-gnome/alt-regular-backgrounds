@@ -1,0 +1,11 @@
+option(
+  'target_de',
+  type: 'combo',
+  choices: [
+    'gnome',
+    'kde',
+    'phosh',
+  ],
+  value: 'gnome',
+  description: 'Target desktop environment'
+)
