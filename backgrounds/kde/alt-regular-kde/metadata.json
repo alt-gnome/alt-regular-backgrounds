@@ -1,0 +1,18 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ALT Gnome Team",
+                "Name[zh_CN]": "ALT Gnome Team"
+            }
+        ],
+        "Id": "alt-regular-kde",
+        "License": "GPL-3.0-or-later",
+        "Name": "ALT Regular KDE",
+        "Name[zh_CN]": "ALT Regular KDE"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": {
+        "Dark": "#32d99c",
+        "Light": "#2bc07f"
+    }
+}
