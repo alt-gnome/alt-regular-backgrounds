@@ -10,10 +10,13 @@ backgrounds = [
   'alt-regular-gnome-l.png',
 ]
 
+metadatas = [
+  'alt-regular-gnome.xml',
+]
+
 install_data(backgrounds, install_dir: backgrounddir)
 
-foreach metadata : [
-  'alt-regular-gnome.xml',]
+foreach metadata : metadatas
   configure_file(
     input: metadata + '.in',
     output: metadata,
