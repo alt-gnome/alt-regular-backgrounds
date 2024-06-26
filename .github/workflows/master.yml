@@ -12,7 +12,6 @@ jobs:
       matrix:
         targetde: [gnome, kde, phosh]
       fail-fast: false
-      max-parallel: 1
 
     steps:
       - name: Checkout repository
