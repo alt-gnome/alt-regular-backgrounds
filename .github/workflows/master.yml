@@ -20,10 +20,10 @@ jobs:
 
       - name: Install meson
         run: 
-          apt update -y
-          apt upgrade -y
+          apt update -y &&
+          apt upgrade -y &&
           apt install -y meson
-        
+
       - name: Setup build dir
         run:
           meson setup --reconfigure -Dtarget_de=${{ matrix.targetde }} _build
