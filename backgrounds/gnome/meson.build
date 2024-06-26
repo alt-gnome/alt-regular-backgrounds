@@ -11,7 +11,7 @@ backgrounds = [
 ]
 
 metadatas = [
-  'blue-hex.xml',
+  'alt-regular-gnome-blue-hex.xml',
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)

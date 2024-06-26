@@ -12,7 +12,7 @@ backgrounds = [
 ]
 
 metadatas = [
-  'orange-hex.xml',
+  'alt-regular-phosh-orange-hex.xml',
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)
