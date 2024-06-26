@@ -1,0 +1,33 @@
+on: [push]
+
+jobs:
+  none:
+    name: Test build
+    runs-on: ubuntu-latest
+
+    container:
+      image: ubuntu:latest
+
+    strategy:
+      matrix:
+        targetde: [gnome, kde, phosh]
+      fail-fast: false
+      max-parallel: 1
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install meson
+        run: 
+          apt update -y
+          apt upgrade -y
+          apt install -y meson
+        
+      - name: Setup build dir
+        run:
+          meson setup --reconfigure -Dtarget_de=${{ matrix.targetde }} _build
+
+      - name: Install
+        run:
+          ninja -C _build install
