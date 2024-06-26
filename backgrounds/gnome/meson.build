@@ -1,4 +1,4 @@
-backgrounddir = join_paths(datadir, 'backgrounds', 'gnome')
+backgrounddir = join_paths(datadir, 'backgrounds', 'alt-regular-gnome')
 metadatadir = join_paths(datadir, 'gnome-background-properties')
 
 conf = configuration_data()
@@ -6,12 +6,12 @@ conf.set('BACKGROUNDDIR', backgrounddir)
 conf.set('datadir', datadir)
 
 backgrounds = [
-  'alt-regular-gnome-d.png',
-  'alt-regular-gnome-l.png',
+  'blue-hex-d.png',
+  'blue-hex-l.png',
 ]
 
 metadatas = [
-  'alt-regular-gnome.xml',
+  'blue-hex.xml',
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)

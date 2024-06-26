@@ -1,7 +1,7 @@
 backgrounddir = join_paths(datadir, 'wallpapers')
 
 bgdirs = [
-  'alt-regular-kde',
+  'alt-regular-kde-green-hex',
 ]
 
 foreach bgdir : bgdirs

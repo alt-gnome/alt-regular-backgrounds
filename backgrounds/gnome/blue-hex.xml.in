@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>ALT Regular GNOME</name>
-    <filename>@BACKGROUNDDIR@/alt-regular-gnome-l.png</filename>
-    <filename-dark>@BACKGROUNDDIR@/alt-regular-gnome-d.png</filename-dark>
+    <filename>@BACKGROUNDDIR@/blue-hex-l.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/blue-hex-d.png</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#8eb0db</pcolor>
