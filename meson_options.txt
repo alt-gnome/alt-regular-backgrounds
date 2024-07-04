@@ -5,6 +5,7 @@ option(
     'gnome',
     'kde',
     'phosh',
+    'all',
   ],
   value: 'gnome',
   description: 'Target desktop environment'
