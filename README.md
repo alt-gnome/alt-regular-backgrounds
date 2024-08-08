@@ -1,6 +1,7 @@
 # ALT Regular Backgrounds
 Backrounds for ALT Regular
 
+## Install
 The desired environment is set via meson options.
 
 GNOME example:
@@ -12,3 +13,9 @@ Possible values for now:
 * gnome
 * kde
 * phosh
+
+## License
+
+##### Creative Commons Attribution Share Alike 4.0 International
+
+The authors are placed in the AUTHORS file.
