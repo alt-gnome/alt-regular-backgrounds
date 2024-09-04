@@ -1,7 +1,7 @@
 project('alt-regular-backgrounds',
   version: '0.3.2',
   meson_version: '>= 0.56.0',
-  license: 'GPL-3.0-or-later'
+  license: 'CC-BY-SA-4.0'
 )
 
 i18n = import('i18n')
