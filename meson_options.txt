@@ -4,7 +4,6 @@ option(
   choices: [
     'gnome',
     'kde',
-    'phosh',
     'all',
   ],
   value: 'gnome',

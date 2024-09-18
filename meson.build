@@ -13,7 +13,6 @@ datadir = join_paths(prefix, get_option('datadir'))
 if get_option('target_de') == 'all'
   subdir('backgrounds/gnome')
   subdir('backgrounds/kde')
-  subdir('backgrounds/phosh')
 else
   subdir('backgrounds/@0@'.format(get_option('target_de')))
 endif

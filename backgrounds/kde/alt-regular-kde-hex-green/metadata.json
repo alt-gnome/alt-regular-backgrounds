@@ -4,12 +4,16 @@
             {
                 "Name": "ALT Gnome Team",
                 "Name[zh_CN]": "ALT Gnome Team"
+            },
+            {
+                "Name": "Zubacheva Victoria",
+                "Name[zh_CN]": "Zubacheva Victoria"
             }
         ],
-        "Id": "alt-regular-kde",
+        "Id": "alt-regular-kde-hex-green",
         "License": "CC-BY-SA-4.0",
-        "Name": "ALT Regular KDE",
-        "Name[zh_CN]": "ALT Regular KDE"
+        "Name": "ALT Regular KDE Hex Green",
+        "Name[zh_CN]": "ALT Regular KDE Hex Green"
     },
     "X-KDE-PlasmaImageWallpaper-AccentColor": {
         "Dark": "#32d99c",
