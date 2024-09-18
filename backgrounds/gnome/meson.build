@@ -6,12 +6,29 @@ conf.set('BACKGROUNDDIR', backgrounddir)
 conf.set('datadir', datadir)
 
 backgrounds = [
-  'blue-hex-d.png',
-  'blue-hex-l.png',
+  'hex-black-ld.png',
+  'hex-blue-d.png',
+  'hex-blue-l.png',
+  'hex-orange-d.png',
+  'hex-orange-l.png',
+  'liberation-blue-d.png',
+  'liberation-blue-l.png',
+  'liberation-green-d.png',
+  'liberation-green-l.png',
+  'liberation-yellow-d.png',
+  'liberation-yellow-l.png',
+  'liberation-d.png',
+  'liberation-l.png',
 ]
 
 metadatas = [
-  'alt-regular-gnome-blue-hex.xml',
+  'alt-regular-gnome-hex-black.xml',
+  'alt-regular-gnome-hex-blue.xml',
+  'alt-regular-gnome-hex-orange.xml',
+  'alt-regular-gnome-liberation-blue.xml',
+  'alt-regular-gnome-liberation-green.xml',
+  'alt-regular-gnome-liberation-yellow.xml',
+  'alt-regular-gnome-liberation.xml',
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)

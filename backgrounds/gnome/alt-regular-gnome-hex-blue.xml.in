@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>ALT Regular GNOME Hex Blue</name>
+    <filename>@BACKGROUNDDIR@/hex-blue-l.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/hex-blue-d.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#8eb0db</pcolor>
+    <scolor>#332f3f</scolor>
+  </wallpaper>
+</wallpapers>

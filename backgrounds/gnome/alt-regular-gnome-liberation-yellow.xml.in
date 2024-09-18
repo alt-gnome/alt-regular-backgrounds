@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>ALT Regular GNOME Liberation Yellow</name>
+    <filename>@BACKGROUNDDIR@/liberation-yellow-l.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/liberation-yellow-d.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#dabf99</pcolor>
+    <scolor>#191520</scolor>
+  </wallpaper>
+</wallpapers>
