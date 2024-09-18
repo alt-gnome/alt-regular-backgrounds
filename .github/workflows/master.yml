@@ -10,7 +10,7 @@ jobs:
 
     strategy:
       matrix:
-        targetde: [gnome, kde, phosh]
+        targetde: [gnome, kde, all]
       fail-fast: false
 
     steps:
