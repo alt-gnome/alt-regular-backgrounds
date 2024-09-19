@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ALT Gnome Team",
+                "Name[zh_CN]": "ALT Gnome Team"
+            },
+            {
+                "Name": "Zubacheva Victoria",
+                "Name[zh_CN]": "Zubacheva Victoria"
+            }
+        ],
+        "Id": "alt-regular-kde-liberation-orange",
+        "License": "CC-BY-SA-4.0",
+        "Name": "ALT Regular KDE Liberation Orange",
+        "Name[zh_CN]": "ALT Regular KDE Liberation Orange"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": {
+        "Dark": "#c59d40",
+        "Light": "#ffbd5b"
+    }
+}

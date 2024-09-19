@@ -16,7 +16,7 @@
         "Name[zh_CN]": "ALT Regular KDE Hex Green"
     },
     "X-KDE-PlasmaImageWallpaper-AccentColor": {
-        "Dark": "#32d99c",
-        "Light": "#2bc07f"
+        "Light": "#2bc07f",
+        "Dark": "#32d99c"
     }
 }
