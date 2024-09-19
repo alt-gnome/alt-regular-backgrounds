@@ -1,0 +1,22 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "ALT Gnome Team",
+                "Name[zh_CN]": "ALT Gnome Team"
+            },
+            {
+                "Name": "Zubacheva Victoria",
+                "Name[zh_CN]": "Zubacheva Victoria"
+            }
+        ],
+        "Id": "alt-regular-kde-liberation-blue",
+        "License": "CC-BY-SA-4.0",
+        "Name": "ALT Regular KDE Liberation Blue",
+        "Name[zh_CN]": "ALT Regular KDE Liberation Blue"
+    },
+    "X-KDE-PlasmaImageWallpaper-AccentColor": {
+        "Dark": "#8cbcf7",
+        "Light": "#72adf7"
+    }
+}
