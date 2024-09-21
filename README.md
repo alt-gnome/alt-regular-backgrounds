@@ -12,7 +12,6 @@ meson setup --reconfigure -Dtarget_de=gnome _build
 Possible values for now:
 * gnome
 * kde
-* phosh
 
 ## License
 
