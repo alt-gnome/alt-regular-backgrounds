@@ -9,6 +9,8 @@ backgrounds = [
   'hex-black-ld.png',
   'hex-blue-d.png',
   'hex-blue-l.png',
+  'hex-green-d.png',
+  'hex-green-l.png',
   'hex-orange-d.png',
   'hex-orange-l.png',
   'liberation-blue-d.png',
@@ -24,6 +26,7 @@ backgrounds = [
 metadatas = [
   'alt-regular-gnome-hex-black.xml',
   'alt-regular-gnome-hex-blue.xml',
+  'alt-regular-gnome-hex-green.xml',
   'alt-regular-gnome-hex-orange.xml',
   'alt-regular-gnome-liberation-blue.xml',
   'alt-regular-gnome-liberation-green.xml',
