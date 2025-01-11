@@ -1,5 +1,5 @@
 project('alt-regular-backgrounds',
-  version: '0.4.2',
+  version: '0.4.3',
   meson_version: '>= 0.56.0',
   license: 'CC-BY-SA-4.0'
 )
