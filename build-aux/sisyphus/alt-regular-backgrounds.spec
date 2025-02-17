@@ -12,6 +12,7 @@ Vcs: https://github.com/alt-gnome-team/alt-regular-backgrounds.git
 BuildArch: noarch
 
 Source: %name-%version.tar
+Patch: %name-%version-alt.patch
 
 BuildRequires(pre): rpm-macros-meson
 BuildRequires: meson
@@ -37,6 +38,7 @@ Wallpapers are placed in the KDE standard path
 
 %prep
 %setup
+%autopatch -p1
 
 %build
 %meson -Dtarget_de=all
