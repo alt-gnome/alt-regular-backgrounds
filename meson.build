@@ -4,8 +4,6 @@ project('alt-regular-backgrounds',
   license: 'CC-BY-SA-4.0'
 )
 
-i18n = import('i18n')
-
 prefix = get_option('prefix')
 
 datadir = join_paths(prefix, get_option('datadir'))
