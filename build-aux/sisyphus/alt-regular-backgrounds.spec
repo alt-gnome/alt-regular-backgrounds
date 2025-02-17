@@ -26,7 +26,7 @@ Group: Graphical desktop/GNOME
 
 %description gnome
 This package contains wallpapers from the ALT Regular community.
-Wallpapers are placed in the GNOME standard path
+Wallpapers are placed in the GNOME standard path.
 
 %package kde
 Summary: Background images for the ALT Regular KDE
@@ -34,7 +34,7 @@ Group: Graphical desktop/KDE
 
 %description kde
 This package contains wallpapers from the ALT Regular community.
-Wallpapers are placed in the KDE standard path
+Wallpapers are placed in the KDE standard path.
 
 %prep
 %setup
