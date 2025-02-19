@@ -48,7 +48,7 @@ Wallpapers are placed in the KDE standard path.
 %meson_install
 
 %files gnome
-%_datadir/backgrounds/alt-regular-gnome/*
+%_datadir/backgrounds/alt-regular-gnome/
 %_datadir/gnome-background-properties/alt-regular-gnome-*.xml
 
 %files kde
